@@ -37,7 +37,7 @@ For Windows:
 ### Environment variables
 
 This project uses environment variables for all runtime configuration. You can
-find an example (and description) of all used environment variables in
+find an example of all used environment variables in
 [`.envrc.dist`](./.envrc.dist).
 
 ### Installing
@@ -78,5 +78,5 @@ http://localhost:3000/api/stats
 
 ## Troubleshooting
 
-- Ensure all required envariable variables have been set.
+- Ensure all required environment variables have been set.
 - Check if port 3000 has not been used by another application.
